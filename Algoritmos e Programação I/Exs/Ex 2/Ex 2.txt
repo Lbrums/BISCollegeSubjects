@@ -1,0 +1,43 @@
+1. Definir a prioridade das operações.
+
+2.a. a + b * c + d
+2.b. (a+b) * c + d * (a - 2 * b)
+2.c. [2 * a + (c - b) * 2] * 2
+2.d. (x + y) * (x - y)
+
+3. Ex 2.py
+
+4. == / igualdade
+    > / maior que
+    < / menor que
+   != / diferente
+   >= / maior ou igual
+   <= / menor ou igual
+
+5. Quando quisermos saber se algo é maior,
+ igual ou diferente de outra coisa.
+
+6. True or False
+
+7.  Considere que os valores iniciais das variáveis são:
+    x = 1, y = 2, z = 5
+    x = 4, y = 3, z = 1
+    x * x + y > z : False
+    x * x + y > z : True 
+
+8.  a = True
+    b = True
+    c = False
+    d = False
+    e = False
+
+9.  a = True
+    b = True
+    c = True
+
+10. a = True
+        False
+        False
+    b = False
+    c = 2.2, 3, 3.
+    d = 2.2, 3, True
