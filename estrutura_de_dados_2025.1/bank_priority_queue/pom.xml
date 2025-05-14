@@ -10,6 +10,6 @@
         </execution>
     </executions>
     <configuration>
-        <mainClass>ifc.edu.bank_priority_queue.Bank_priority_queue</mainClass>
+        <mainClass>ifc.edu.bank_priority_queue.BankPriorityQueue</mainClass>
     </configuration>
 </plugin>
